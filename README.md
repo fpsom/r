@@ -1,5 +1,7 @@
 # Specifying an R environment with a runtime.txt file
 
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/fpsom/r/master)
+
 Jupyter+R: [![Binder](http://mybinder.org/badge.svg)](http://beta.mybinder.org/v2/gh/binder-examples/r/master?filepath=index.ipynb)
 
 RStudio: [![Binder](http://mybinder.org/badge.svg)](http://beta.mybinder.org/v2/gh/binder-examples/r/master?urlpath=rstudio)
